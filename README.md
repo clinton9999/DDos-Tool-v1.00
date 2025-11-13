@@ -1,10 +1,10 @@
- <h1 align="center">Hello everybody!👋, this is DDos Tool v1.00</h1>
+ <h1 align="center">Hello everybody!👋, this is DDoS Tool v1.00</h1>
 </p>
 <p align="center">
  <a align center href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=This+is+DDos+Tool+v1.00!" alt="Typing SVG" /></a>
 
 ### A little more about DDos Tool v1.00
-This is my own DDosing tool made in Batch Script
+This is a remaster of one of my old DDoSing tools made in Batch Script
 
 #### What Part Of The Code Did I Spend My Time On?
 Lines I Spent A Long Time On:
@@ -17,7 +17,7 @@ Code Editors I Used:
 - NotePad++
 - Windows NotePad
 
-#### Operating Systems I Used While Making DDos Tool v1.00:
+#### Operating Systems I Used While Making DDoS Tool v1.00:
 Operating System I Used:
 - Windows 11
 - Windows 10 Virtual Machine
